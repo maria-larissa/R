@@ -1,0 +1,24 @@
+Qual o seu sexo?,A pandemia afetou a sua saúde física de forma negativa?,Você praticou algum esporte durante esse período de pandemia?,"Dentre os seguintes esportes, quais você praticou?","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Caminhada]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Ciclismo]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Corrida]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Musculação]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Natação]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Dança]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Artes marciais em geral]","Se você marcou algum esporte na questão anterior, indique com que frequência praticou. [Yoga]",Em uma escala de 0 a 10 quanto a  pandemia afetou a sua saúde mental de forma negativa?,"Você alguma vez foi a um psicólogo(a), durante a pandemia?",Você já frequentava o psicologo(a) antes da pandemia?,Em média quanto você gasta por mês com sua saúde?,Você concorda que a pandemia afetou o quanto você poderia dedicar financeiramente (dinheiro) à sua saúde?
+Masculino,Não afetou,Não,,,,,,,,,,4,Não,,20,Sim
+Feminino,Afetou muito,Sim,"Caminhada, Musculação",Regularmente,,,Regularmente,,,,,9,Não,,0,Sim
+Masculino,Afetou pouco,Sim,Nenhuma das opções,,,,,,,,,6,Não,,100,Sim
+Masculino,Não afetou,Sim,Caminhada,Regularmente,,,,,,,,8,Sim,Sim,100,Não
+Masculino,Não afetou,Sim,Artes marciais em geral,,,,,,,Por um certo período,,4,Não,,0,Não
+Masculino,Não afetou,Sim,"Caminhada, Corrida, Musculação",Por um certo período,,Por um certo período,Regularmente,,,,,1,Não,,200,Sim
+Feminino,Afetou muito,Não,,,,,,,,,,8,Não,,0,Sim
+Masculino,Não afetou,Sim,"Caminhada, Ciclismo, Corrida, Musculação, Natação, Dança",Regularmente,Por um certo período,Regularmente,Regularmente,Regularmente,Regularmente,,,6,Não,,65,Sim
+Feminino,Não afetou,Sim,"Caminhada, Musculação, Dança",Por um certo período,,,Regularmente,,Por um certo período,,,8,Não,,300,Sim
+Feminino,Afetou pouco,Sim,"Caminhada, Corrida, Artes marciais em geral",Por um certo período,,Por um certo período,,,,Regularmente,,4,Sim,Não,200,Sim
+Feminino,Não afetou,Sim,"Caminhada, Musculação, Dança",Por um certo período,,,Por um certo período,,Por um certo período,,,4,Não,,300,Não
+Masculino,Não afetou,Não,,,,,,,,,,0,Não,,30,Não
+Feminino,Afetou pouco,Sim,Caminhada,Regularmente,,,,,,,,3,Não,,100,Não
+Feminino,Afetou pouco,Sim,Ciclismo,,Por um certo período,,,,,,,6,Sim,Não,300,Sim
+Feminino,Não afetou,Sim,"Caminhada, Corrida, Musculação, Dança",Regularmente,,,Regularmente,,Por um certo período,,,8,Não,,300,Não
+Feminino,Não afetou,Não,,,,,,,,,,2,Não,,50,Sim
+Feminino,Afetou muito,Não,,,,,,,,,,10,Sim,Sim,300,Não
+Masculino,Afetou muito,Não,,,,,,,,,,7,Não,,0,Não
+Feminino,Afetou muito,Sim,"Caminhada, Musculação",Por um certo período,,,Regularmente,,,,,6,Não,,0,Sim
+Masculino,Não afetou,Sim,Musculação,,,,Regularmente,,,,,0,Não,,0,Não
+Masculino,Não afetou,Sim,"Caminhada, Corrida",Regularmente,,Regularmente,,,,,,1,Não,,100,Não
+Masculino,Não afetou,Sim,"Caminhada, Corrida, Musculação",Regularmente,,Regularmente,Por um certo período,,,,,0,Não,,500,Sim
+Masculino,Afetou pouco,Sim,"Caminhada, Corrida",Por um certo período,,Por um certo período,,,,,,4,Não,,0,Não
